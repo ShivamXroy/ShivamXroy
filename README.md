@@ -3,7 +3,7 @@
 
 Email Me 👉 ✉️ **shivamroy344785@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** AirMeet (MERN-based video conferencing platform) & IntervoAI (AI-powered interview prep platform)
+- 🔭 **I’m currently working on:** AirMeet (MERN-based video conferencing platform) & Intervo (Real time interview prep platform)
 - 🌱 **I’m currently learning:**Data Structures & Algorithms (DSA),along with Web Development
 - 👯 **I’m looking to collaborate on:** Web development projects, Java-based applications, and beginner-friendly open source
 - 🤔 **I’m looking for help with:** Improving system design basics, scaling projects, and internship guidance
